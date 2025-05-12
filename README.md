@@ -13,5 +13,5 @@
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-2511&show_icons=true&theme=radical)
 
 ## 🔗 Connect:
-- 📫 ys1807.net@gmail.com
+- 📫 Email: ys1807.net@gmail.com
 - 🐦 Linkedin: www.linkedin.com/in/yash-srivastava-643bb525a
