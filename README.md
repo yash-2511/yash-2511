@@ -1,73 +1,166 @@
-<h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
-<h3 align="center">CSE Student | Full-Stack Web & App Developer | Tech Enthusiast</h3>
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Yash%20Srivastava&fontSize=45&fontAlignY=40&animation=fadeIn"/>`{=html}
 
+```{=html}
+<h1 align="center">
+```
+Hi 👋 I'm Yash Srivastava
+```{=html}
+</h1>
+```
+```{=html}
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Build.+Innovate...;I+love+building+cool+things+with+code!" alt="Typing SVG" />
+```
+`<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Engineer;MERN+Stack+Developer;Backend+System+Builder;DSA+Enthusiast&center=true&width=500&height=45">`{=html}
+```{=html}
 </p>
-
----
-
-### 🔥 About Me
-
-- 🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering**
-- 💻 Passionate about **Web & App Development**  
-- 🌱 Currently exploring **Advanced MERN Stack, AI APIs & Cloud Deployment**
-- 💡 I love building **tech solutions** that solve real-world problems
-- 🚀 Eager to contribute to **open-source** & **collaborative projects**
-
----
-
-### 🛠️ Tech Stack
-
-#### 💡 Core CS
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![DBMS](https://img.shields.io/badge/DBMS-4DB33D?style=for-the-badge&logo=mysql&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-informational?style=for-the-badge)
-
-#### 🖼️ Frontend
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-
-#### 🛠️ Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
+```
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashsrivastava417&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashsrivastava417&theme=tokyonight" width="48%" />
+```
+Building scalable web platforms, AI-powered applications, and
+production-grade backend systems.
+```{=html}
 </p>
+```
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsrivastava417&layout=compact&theme=tokyonight" width="48%" />
+```
+`<img src="https://komarev.com/ghpvc/?username=yash-2511&label=Profile%20views&color=blue&style=flat"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-### 📫 Let's Connect
+# 🚀 About Me
 
-<p align="left">
-  <a href="mailto:ys1807.net@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yash-srivastava-643bb525a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+🎓 B.Tech CSE --- **SRMCEM Lucknow**
 
----
+💻 Full Stack Developer specializing in **MERN + AI systems**
 
+🤖 Experienced in **AI-powered platforms and ML integrations**
+
+🚀 Interested in **AI Agents, scalable backend systems and distributed
+architecture**
+
+🏆 **400+ DSA problems solved**
+
+⭐ **CodeChef Rating --- 1091**
+
+------------------------------------------------------------------------
+
+# 💼 Experience
+
+## 🚀 Full Stack Intern --- Toeho.ai (Remote)
+
+• Worked directly with the **Founder and led a small development team**\
+• Built **ML models for stock fundamental analysis** using financial
+metrics\
+• Integrated **AI models into backend APIs for real-time insights**\
+• Built AI-driven investment tools using **React.js, FastAPI, FastMCP
+and Firebase**
+
+------------------------------------------------------------------------
+
+## 💻 Full Stack Intern --- BYTEBRUDER (Lucknow)
+
+• Developed responsive applications using **React.js + TailwindCSS**\
+• Built REST APIs using **Node.js and Express**\
+• Optimized **MongoDB queries improving performance by 20%**\
+• Implemented **JWT authentication securing 500+ users**
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+## 🍔 Step-in-Cafe --- Food Delivery Platform
+
+Tech: **React.js, Node.js, Express.js, MongoDB**
+
+• Full-stack food delivery platform\
+• Real-time order tracking using **Socket.IO**\
+• Automated **rider assignment system**\
+• JWT authentication with role-based access\
+• Admin dashboard + customer UI
+
+------------------------------------------------------------------------
+
+## 🧠 Skill Gap Intelligence --- AI Career Analyzer
+
+Tech: **React.js, FastAPI, MongoDB**
+
+• AI-powered resume analyzer using **spaCy + Sentence Transformers**\
+• NLP-based **skill gap analysis using embeddings**\
+• Job scraping pipeline for **LinkedIn & Indeed**\
+• Personalized **learning roadmap generator**
+
+------------------------------------------------------------------------
+
+## 📰 NEXPRESS --- AI News Aggregation Platform
+
+Tech: **Next.js, Node.js, MongoDB**
+
+• Production-ready **news aggregation web app**\
+• RSS aggregation system with **cron jobs**\
+• Implemented **SSR & ISR for high performance**\
+• Search, category filtering, SEO optimization
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+### Languages
+
+Python • Java • JavaScript • HTML • CSS
+
+### Frontend
+
+React • Next.js • TailwindCSS • Bootstrap
+
+### Backend
+
+Node.js • Express.js • FastAPI
+
+### Databases & Tools
+
+MongoDB • MySQL • Git • Postman • Docker
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+```{=html}
 <p align="center">
-  🧠 _"Consistency > Talent"_  
-  💬 _Open to freelance, internships, and collaborations_
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=yash-2511&show_icons=true&theme=tokyonight"/>`{=html}
+
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-2511&theme=tokyonight"/>`{=html}
+
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-2511&layout=compact&theme=tokyonight"/>`{=html}
+
+```{=html}
 </p>
+```
+
+------------------------------------------------------------------------
+
+# 📈 Contribution Graph
+
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-2511&theme=react-dark"/>`{=html}
+
+------------------------------------------------------------------------
+
+# 🏆 Achievements
+
+🏅 Represented college **twice in Smart India Hackathon**\
+🏅 Solved **400+ coding challenges**\
+🏅 **CodeChef Rating --- 1091**\
+🏅 IBM Certified in **Full Stack Development**\
+🏅 IBM Certified in **Big Data & Python**
+
+------------------------------------------------------------------------
+
+# 🌐 Connect With Me
+
+Email: ys1807.net@gmail.com\
+GitHub: https://github.com/yash-2511
