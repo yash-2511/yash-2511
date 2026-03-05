@@ -156,7 +156,6 @@ MongoDB • MySQL • Git • Postman • Docker
 🏅 Solved **400+ coding challenges**\
 🏅 **CodeChef Rating --- 1091**\
 🏅 IBM Certified in **Full Stack Development**\
-🏅 IBM Certified in **Big Data & Python**
 
 ------------------------------------------------------------------------
 
